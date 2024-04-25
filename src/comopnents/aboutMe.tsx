@@ -14,9 +14,9 @@ export default function AboutMe(){
                     <p className="section-subtitle">Who Am I ?</p>
                     <h2 className="section-title mb-3">About Me</h2>
                     <p>
-                    I am Albin Thomas. A Full Stack Developer having specialization in Back end and Front end development. I have 4+ years of experience in Web Development having strong Programming Skills!
+                    I am Albin Thomas, a seasoned Full Stack Developer specializing in both Back-end and Front-end development. With over 5 years of experience in web development, I possess strong programming skills, complemented by solid management expertise and DevOps knowledge. My background equips me to handle a variety of projects from start to finish, ensuring high-quality results
                     </p>
-                    <button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button>
+                    <a href="https://drive.google.com/file/d/1DYMOcLPJs2AZXC7jWpnAYXQdGzy50kMP/view?usp=sharing" target="_blank"><button className="btn-rounded btn btn-outline-primary mt-4">Download CV</button></a>
                 </div>
             </div>
         </div>
